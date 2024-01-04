@@ -14,9 +14,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\servers\\Acelucid\\Assignment1\\Acelucid.csproj",
-      "projectName": "Acelucid",
-      "projectPath": "D:\\servers\\Acelucid\\Assignment1\\Acelucid.csproj",
+      "projectUniqueName": "D:\\servers\\Acelucid\\Assignment1\\Assignment1.csproj",
+      "projectName": "Assignment1",
+      "projectPath": "D:\\servers\\Acelucid\\Assignment1\\Assignment1.csproj",
       "packagesPath": "C:\\Users\\keshr\\.nuget\\packages\\",
       "outputPath": "D:\\servers\\Acelucid\\Assignment1\\obj\\",
       "projectStyle": "PackageReference",
