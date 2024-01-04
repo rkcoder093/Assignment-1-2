@@ -1,0 +1,14 @@
+D:\servers\Acelucid\Assignment2\bin\Debug\net8.0\Assignment2.exe
+D:\servers\Acelucid\Assignment2\bin\Debug\net8.0\Assignment2.deps.json
+D:\servers\Acelucid\Assignment2\bin\Debug\net8.0\Assignment2.runtimeconfig.json
+D:\servers\Acelucid\Assignment2\bin\Debug\net8.0\Assignment2.dll
+D:\servers\Acelucid\Assignment2\bin\Debug\net8.0\Assignment2.pdb
+D:\servers\Acelucid\Assignment2\obj\Debug\net8.0\Assignment2.GeneratedMSBuildEditorConfig.editorconfig
+D:\servers\Acelucid\Assignment2\obj\Debug\net8.0\Assignment2.AssemblyInfoInputs.cache
+D:\servers\Acelucid\Assignment2\obj\Debug\net8.0\Assignment2.AssemblyInfo.cs
+D:\servers\Acelucid\Assignment2\obj\Debug\net8.0\Assignment2.csproj.CoreCompileInputs.cache
+D:\servers\Acelucid\Assignment2\obj\Debug\net8.0\Assignment2.dll
+D:\servers\Acelucid\Assignment2\obj\Debug\net8.0\refint\Assignment2.dll
+D:\servers\Acelucid\Assignment2\obj\Debug\net8.0\Assignment2.pdb
+D:\servers\Acelucid\Assignment2\obj\Debug\net8.0\Assignment2.genruntimeconfig.cache
+D:\servers\Acelucid\Assignment2\obj\Debug\net8.0\ref\Assignment2.dll
