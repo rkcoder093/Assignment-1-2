@@ -7,9 +7,9 @@ class Program2
     static void Main()
     {
         string inputString = "Hdjsh asd2324234jghjsd hjsdg sdhk 12212021 idf32432 12122000abc d34234jh dfh";
-        List<string> validDates = FindDatesInString(inputString);
+        List<string> ValidDates = FindDatesInString(inputString);
 
-        Console.WriteLine("Valid dates found: " + string.Join(", ", validDates));
+        Console.WriteLine("Valid dates found: " + string.Join(", ", ValidDates));
     }
 
     static List<string> FindDatesInString(string inputString)
